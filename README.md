@@ -26,11 +26,11 @@ You will also be required to use the included `helper.py` Python file and the da
 In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook k-means Clustering of Movie Ratings.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook k-means Clustering of Movie Ratings.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
